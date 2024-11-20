@@ -53,7 +53,7 @@ public class ContactManagerTest {
     }
     @Test
     public void testFindContact1() {
-        System.out.println("findContact1");
+        System.out.println("findContact1 test");
         String emailAddress = "cruzjac@sheridancollege.ca";
         
         Contact expResult = instance.getList().get(0);
