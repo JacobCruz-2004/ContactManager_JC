@@ -9,6 +9,7 @@ package com.mycompany.ice4;
  * @author jacob
  */
 public class Contact {
+    // Testing edit
 //    Testing
     public Contact(String firstName, String lastName, String emailAddress){
         this.firstName = firstName;
